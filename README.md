@@ -26,6 +26,8 @@ When I'm not in code, you'll find me watching tech-related YouTube videos, fueli
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![React](https://img.shields.io/badge/react-4BA173?style=for-the-badge&logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/node-4BA173?style=for-the-badge&logo=node&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-8674A1?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
