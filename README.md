@@ -8,10 +8,9 @@ I am a Data Science and Analytics Student from National University of Singapore 
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've contributed to diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
+When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-
-### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
@@ -42,13 +41,6 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clementlemon02&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementlemon02&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=clementlemon02&hide_border=true" />
-
-#
 
 <div align="center">
 
