@@ -3,10 +3,6 @@
 👨🏽‍🎓 Data Science and Analytics student at National University of Singapore (NUS), focusing on software engineering and machine learning 🚀
 <br><br>👨🏽‍💻I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've contributed to diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.<br><br>☕Always down for coffee chats<br><br>🌐 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-yeu-jye-ling/)
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
-When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
-
-
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 
@@ -19,8 +15,7 @@ When I'm not in code, you'll find me watching tech-related YouTube videos, fueli
 <br><br>
 # 💻 Tech Stack
 
-### Data Science & Analytics
-
+### Programming Languages and tools
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-007396?style=for-the-badge&logo=typescript&logoColor=#3178C6)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
