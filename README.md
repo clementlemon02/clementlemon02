@@ -23,7 +23,7 @@ When I'm not in code, you'll find me watching tech-related YouTube videos, fueli
 
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=white) 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![React](https://img.shields.io/badge/react-4BA173?style=for-the-badge&logo=react&logoColor=white)
